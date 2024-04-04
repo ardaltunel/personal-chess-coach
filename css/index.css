@@ -2617,9 +2617,8 @@ body {
     box-shadow: inset 0 0 3px 3px red;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 1300px) {
     #myBoard {
-
         width: 350px;
         left: -10px;
         top: 40px;
