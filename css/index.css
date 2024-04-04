@@ -1277,7 +1277,7 @@ body {
     top: 666px;
     width: 168px;
     height: 7px;
-    z-index: 0;
+    z-index: 1;
 }
 
 #bDepth {
